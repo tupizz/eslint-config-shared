@@ -1,0 +1,37 @@
+{
+  "name": "@tupizz/eslint-config-shared",
+  "version": "0.0.1",
+  "description": "shared config prettier and eslint",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tupizz/eslint-config-shared.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "eslint",
+    "lint",
+    "config",
+    "prettier"
+  ],
+  "author": "Tadeu Tupinambá",
+  "license": "MIT",
+  "homepage": "https://github.com/tupizz/eslint-config-shared#readme",
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.2"
+  },
+  "peerDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.2"
+  }
+}
